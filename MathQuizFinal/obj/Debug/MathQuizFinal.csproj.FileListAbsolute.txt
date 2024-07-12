@@ -1,0 +1,10 @@
+C:\Users\Train\source\repos\MathQuizFinal\MathQuizFinal\bin\Debug\MathQuizFinal.exe.config
+C:\Users\Train\source\repos\MathQuizFinal\MathQuizFinal\bin\Debug\MathQuizFinal.exe
+C:\Users\Train\source\repos\MathQuizFinal\MathQuizFinal\bin\Debug\MathQuizFinal.pdb
+C:\Users\Train\source\repos\MathQuizFinal\MathQuizFinal\obj\Debug\MathQuizFinal.csproj.AssemblyReference.cache
+C:\Users\Train\source\repos\MathQuizFinal\MathQuizFinal\obj\Debug\MathQuizFinal.form.resources
+C:\Users\Train\source\repos\MathQuizFinal\MathQuizFinal\obj\Debug\MathQuizFinal.Properties.Resources.resources
+C:\Users\Train\source\repos\MathQuizFinal\MathQuizFinal\obj\Debug\MathQuizFinal.csproj.GenerateResource.cache
+C:\Users\Train\source\repos\MathQuizFinal\MathQuizFinal\obj\Debug\MathQuizFinal.csproj.CoreCompileInputs.cache
+C:\Users\Train\source\repos\MathQuizFinal\MathQuizFinal\obj\Debug\MathQuizFinal.exe
+C:\Users\Train\source\repos\MathQuizFinal\MathQuizFinal\obj\Debug\MathQuizFinal.pdb
